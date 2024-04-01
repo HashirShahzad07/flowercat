@@ -1,6 +1,7 @@
 /*=============== GOOGLE FONTS ===============*/
 
 @import url('https://fonts.googleapis.com/css2?family=Chewy&amp;family=Fredoka:wght@300..700&amp;family=Jua&amp;family=Sniglet:wght@400;800&amp;display=swap');
+
 /*=============== VARIABLES CSS ===============*/
 
 :root {
@@ -879,6 +880,56 @@ p span {
 
 section#merch {
     padding: 0 !IMPORTANT;
+}
+img.aaa {
+    position: relative;
+    top: 11px;
+}
+
+h2.section__title.tokenomics__title {
+    font-family: 'Sniglet';
+    font-weight: 400;
+}
+
+h2.tokenomics__item-title {
+    font-family: 'Sniglet';
+    font-weight: 400;
+}
+
+h1.home__title {
+    font-family: 'Sniglet';
+    font-weight: 400;
+}
+
+h1.home__title span {
+    font-weight: 900;
+}
+
+p.home__description {
+    font-family: 'Sniglet';
+}
+
+h2.contact__title.section__title {
+    font-family: 'Sniglet';
+    font-weight: 400;
+}
+h2.contact__title.section__title span{
+
+    font-weight: 800;
+}
+
+h3.contact__description {
+    font-family: 'Sniglet';
+    font-weight: 400;
+}
+
+span.footer__copy {
+    font-family: 'Sniglet';
+    font-size: 18px;
+}
+li.nav__item a {
+    font-family: 'Sniglet';
+    font-weight: 400;
 }
 @media screen and (max-width: 480px){
 
